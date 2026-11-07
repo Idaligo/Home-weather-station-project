@@ -1,4 +1,7 @@
 <img width="4000" height="2252" alt="IMG_20261106_122629" src="https://github.com/user-attachments/assets/c31b8007-30d3-4095-9ffc-6ede04e6d2a1" />
+<img width="4000" height="2252" alt="IMG_20261107_185105" src="https://github.com/user-attachments/assets/e4b89d52-7000-43e2-bcbb-2f0cabd27056" />
+<img width="4000" height="2252" alt="IMG_20261107_185134" src="https://github.com/user-attachments/assets/4167c687-6325-4097-908a-b1e872dd7fbb" />
+<img width="4000" height="2252" alt="IMG_20261107_185148" src="https://github.com/user-attachments/assets/509270d0-a4c8-4880-8931-d5e08c72c74a" />
 
 Метеостанция ESP32-S3 — функционал
 Назначение
